@@ -9,7 +9,7 @@ An interactive banking performance dashboard designed to help bank executive man
 
 ## Dashboard Preview
 
-[![Bank of Baroda Banking Performance Dashboard](Screenshots/banking-performance-dashboard.png)](https://github.com/Sathiyamoorthi-DA/Bank-of-Baroda-banking-performance-powerbi/blob/main/Screenshots/banking-performance-dashboard.png)
+https://github.com/Sathiyamoorthi-DA/Bank-of-Baroda-Banking-Performance-Dashboard-Power-BI/blob/main/Screenshots/BOB_Performance_Dashboard%20(1).png
 
 ## Business Objective
 
